@@ -1,0 +1,1 @@
+/home/tacsio/.local/share/dracula-theme/zsh/dracula.zsh-theme
